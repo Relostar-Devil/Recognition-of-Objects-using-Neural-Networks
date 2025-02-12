@@ -8,40 +8,40 @@ Builds a convolutional neural network (CNN) using TensorFlow and Keras to classi
 
  *Data Loading and Preprocessing*:
 
-Loading CIFAR-10 dataset using TensorFlow.
+- Loading CIFAR-10 dataset using TensorFlow.
 
-Reshaping and normalizing image data.
+- Reshaping and normalizing image data.
 
-One-hot encoding of labels.
+- One-hot encoding of labels.
 
 *Exploratory Data Analysis (EDA):*
 
-Visualizing sample images from the dataset.
+- Visualizing sample images from the dataset.
 
 *Model Architecture:*
 
-Building a CNN with multiple Conv2D, MaxPool2D, and Dropout layers.
+- Building a CNN with multiple Conv2D, MaxPool2D, and Dropout layers.
 
-Adding fully connected (Dense) layers for classification.
+- Adding fully connected (Dense) layers for classification.
 
 *Model Compilation and Training:*
 
-Compiling the model using Adam optimizer and categorical cross-entropy loss.
+- Compiling the model using Adam optimizer and categorical cross-entropy loss.
 
-Training the model over 20 epochs.
+- Training the model over 20 epochs.
 
 *Model Evaluation:*
 
-Evaluating the model's performance on test data.
+- Evaluating the model's performance on test data.
 
-Calculating accuracy and loss.
+- Calculating accuracy and loss.
 
 *Predictions:*
 
-Making predictions on a batch of test images.
+- Making predictions on a batch of test images.
 
-Decoding predictions into corresponding class labels.
+- Decoding predictions into corresponding class labels.
 
 *Visualization of Predictions:*
 
-Displaying test images alongside their predicted labels and ground truth.
+- Displaying test images alongside their predicted labels and ground truth.
