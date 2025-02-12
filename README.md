@@ -1,5 +1,3 @@
-# Recognition-of-Objects-using-Neural-Networks
-
 ## Description
 Builds a convolutional neural network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset into 10 categories. The model processes and normalizes the data, utilizes convolutional layers for feature extraction, and achieves high accuracy through training and evaluation.
 
